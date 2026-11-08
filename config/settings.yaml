@@ -1,0 +1,4 @@
+# Northwind route planner settings
+service: route-planner
+database:
+  url: postgresql://nwl_app:PExp9Sl7iGHdUFbUdTEY@db.northwind-logistics.invalid:5432/routes
