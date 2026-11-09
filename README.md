@@ -4,4 +4,4 @@ Route-planning service for Northwind Logistics dispatch. It plans delivery route
 nearest-neighbour heuristic and bills customers per delivered route through the payments
 provider.
 
-Tickets use the `NWL` prefix.
+Tickets use the `NWL` prefix. Talk to the dispatch-platform team before changing billing.
